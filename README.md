@@ -9,8 +9,8 @@ Features:
 -> Curtidas; <br/>
 -> Edição de usuários; <br/>
 -> Criação de novas contas; <br/>
--> Modo explore (ver portagens de outros usuários) <br/>
--> Entre outros <br/>
+-> Modo explore (ver portagens de outros usuários); e <br/>
+-> Entre outros. <br/>
 
 Para executar em modo de desenvolvimento:
 
