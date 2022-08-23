@@ -16,6 +16,10 @@ Para executar em modo de desenvolvimento:
 
 Criar um ambiente para a aplicação:
 
+```python3.10 -m venv env```
+
+Ativar esse ambiente:
+
 ```source venv/bin/activate```
 
 Instalar os pacotes necessários:
