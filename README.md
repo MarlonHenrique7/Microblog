@@ -4,13 +4,13 @@ Desenvolviment de um microblog utilizando Flask.
 
 Features:
 
--> Login de usuários;
--> Postagens;
--> Curtidas;
--> Edição de usuários;
--> Criação de novas contas;
--> Modo explore (ver portagens de outros usuários)
--> Entre outros
+-> Login de usuários; <br/>
+-> Postagens; <br/>
+-> Curtidas; <br/>
+-> Edição de usuários; <br/>
+-> Criação de novas contas; <br/>
+-> Modo explore (ver portagens de outros usuários) <br/>
+-> Entre outros <br/>
 
 Para executar em modo de desenvolvimento:
 
